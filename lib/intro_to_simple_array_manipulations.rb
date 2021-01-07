@@ -6,6 +6,8 @@ def using_insert(array, element)
   array.insert(4, element)
 end 
 
+def 
+
 def using_flatten(array)
   array.flatten(array)
 end 
